@@ -1,5 +1,16 @@
 ## isilant
-
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  ...
+endsolid
+```
 <!--
 **isilant/isilant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
