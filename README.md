@@ -1,5 +1,6 @@
 ## isilant
-```æ πython æ seleniumbase æ playwright æ blender æ tyπescriπt æ c++ æ```\n
+```æ πython æ seleniumbase æ playwright æ blender æ tyπescriπt æ c++ æ```
+
 ```tg: @tnwzz```
 ```stl
 solid 
